@@ -2,7 +2,7 @@
 <h3 align="center">A full stack web developer student from Brazil</h3>
 <p align="center">I’m currently learning <strong>JavaScript</strong>, <strong>HTML</strong> and <strong>CSS</strong> at <a href="https://www.betrybe.com/" target="_blank">Trybe</a> 🚀</p>
 <p align="right" style="font-size:8px;">
-  <a href="" target="_blank"><img src="https://user-images.githubusercontent.com/2211052/98807855-935d1500-241b-11eb-9f38-a9e17e9bd1b0.png" width="16" height="16"></a>
+  <a href="https://github.com/eduardocasati" target="_blank"><img src="https://user-images.githubusercontent.com/2211052/98807855-935d1500-241b-11eb-9f38-a9e17e9bd1b0.png" width="16" height="16"></a>
   <a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16" height="16"></a>
 </p>
 
