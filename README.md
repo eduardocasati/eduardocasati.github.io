@@ -10,7 +10,7 @@
 <p align="center"><a href="https://github.com/eduardocasati/github-readme-stats" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocasati&layout=compact&theme=transparent" width="450">
 </a>
-  </br>
+  <br>
 <img src="https://github-readme-stats.vercel.app/api?username=eduardocasati&show_icons=true&theme=transparent" width="450">
 </p>
 
