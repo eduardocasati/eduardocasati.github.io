@@ -7,7 +7,7 @@
 </p>
 
 ### My projects:
-- 👾 [Pixel Art](https://eduardocasati.github.io/pixels-art/)
+- 🎨 [Pixel Art](https://eduardocasati.github.io/pixels-art/)
 
 ***
 <p align="center"><a href="https://github.com/eduardocasati/github-readme-stats" target="_blank">
