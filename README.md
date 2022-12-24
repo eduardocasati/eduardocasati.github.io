@@ -4,14 +4,15 @@
 <p align="center">I’m currently learning <strong>JavaScript</strong>, <strong>HTML</strong> and <strong>CSS</strong> at <a href="https://www.betrybe.com/" target="_blank">Trybe</a> 🚀</p>
 
 ### My projects:
-- [x] 👾 [Pixel Art](https://eduardocasati.github.io/pixels-art/)
+- 👾 [Pixel Art](https://eduardocasati.github.io/pixels-art/)
 
 ***
-<a href="https://github.com/eduardocasati/github-readme-stats" style="width=800px; margin:auto; text-align:center;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocasati&layout=compact&theme=transparent" style="width=800px; margin:auto; text-align:center;">
+<p align="center"><a href="https://github.com/eduardocasati/github-readme-stats" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocasati&layout=compact&theme=transparent" width="450">
 </a>
-
-![Eduardo Casati's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardocasati&show_icons=true&theme=transparent)
+  </br>
+<img src="https://github-readme-stats.vercel.app/api?username=eduardocasati&show_icons=true&theme=transparent" width="450">
+</p>
 
 ***
 
