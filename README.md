@@ -6,7 +6,7 @@
   <a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16" height="16"></a>
 </p>
 
-### My projects:
+### My projects at Trybe:
 - 🎨 [Pixel Art](https://eduardocasati.github.io/pixels-art/)
 
 ***
